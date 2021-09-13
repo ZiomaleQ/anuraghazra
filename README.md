@@ -12,7 +12,7 @@
 
 Hi, I'm Radosław Partyka, quite good ~~i think~~ developer from Poland
 
-- I love JS and TS
+- I love JS and TS but boi Kotlin is the best
 
 **Languages and Tools:**  
 
